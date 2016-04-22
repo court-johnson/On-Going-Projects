@@ -1,0 +1,55 @@
+html, body {
+    height: 100%;
+}
+/*header*/
+h1 {
+    color: #0099FF;
+    font: 30px Lucida Grande, sans-serif;
+    padding-left: 10px;
+}
+
+h1:hover {
+    font-weight: bold;
+}
+
+img  {
+    width: 40px;
+    height: auto;
+    opacity: 0.7;
+}
+
+img:hover {
+    opacity: 1.0;
+}
+
+.row {
+    background-color: #f5f5f0;
+}
+/*header end*/
+
+
+.full-height {
+    height: 800px;
+}
+
+#right-column {
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+
+.strike-through {
+    text-decoration: line-through;
+}
+
+/*sidebar*/
+button {
+  letter-spacing: 2px;
+
+}
+
+.col-md-3 {
+    padding-left: 25px;
+    padding-top: 30px;
+}
+/*sidebar end*/
